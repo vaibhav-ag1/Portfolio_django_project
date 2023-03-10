@@ -1,0 +1,47 @@
+
+body{
+    background-color: #f7e6e6!important;
+}
+
+.col-md-6{
+    padding: 10px!important;
+}
+  
+
+#profile{
+    height: 125px;
+    width: 125px;
+    border-radius: 50%;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.icon{
+    height: 30x;
+    width: 30px;
+    margin: 10px;
+}
+
+.tag{
+    height: 80px;
+    width: 80px;
+
+}
+
+figcaption{
+    font-size: 12px;
+}
+
+.image-container {
+    display: flex;
+  }
+  
+  .image-container img {
+    flex: 1;
+    margin-right: 10px;
+  }
+  
+  .image-container figcaption {
+    flex: 1;
+  }
+  
